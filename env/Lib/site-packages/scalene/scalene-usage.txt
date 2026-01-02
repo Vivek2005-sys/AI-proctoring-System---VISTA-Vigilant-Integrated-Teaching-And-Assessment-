@@ -1,0 +1,67 @@
+Scalene: a high-precision CPU and memory profiler
+https://github.com/plasma-umass/scalene
+
+Usage:
+  scalene run [options] yourprogram.py     Profile a Python program
+  scalene view [options] [profile.json]    View an existing profile
+
+Run command (profiling):
+  scalene run prog.py                      # profile, save to scalene-profile.json
+  scalene run -o my.json prog.py           # save to custom file
+  scalene run --cpu-only prog.py           # profile CPU only (faster)
+  scalene run -c config.yaml prog.py       # load options from config file
+  scalene run prog.py --- --arg            # pass args to program
+
+View command (displaying results):
+  scalene view                             # open in browser
+  scalene view --cli                       # view in terminal
+  scalene view --html                      # save to scalene-profile.html
+  scalene view myprofile.json              # open specific profile
+
+Run options:
+  -h, --help            show help message and exit
+  -o, --outfile FILE    output file (default: scalene-profile.json)
+  --cpu-only            only profile CPU time (no memory/GPU)
+  -c, --config FILE     load options from YAML config file
+  --help-advanced       show advanced options
+
+Advanced run options (use --help-advanced to see):
+  --profile-all         profile all code, not just the target program
+  --profile-only PATH   only profile files containing these strings
+  --profile-exclude PATH exclude files containing these strings
+  --profile-system-libraries  profile Python stdlib and installed packages
+  --gpu                 profile GPU time and memory
+  --memory              profile memory usage
+  --stacks              collect stack traces
+  --profile-interval N  output profiles every N seconds
+  --use-virtual-time    measure only CPU time, not I/O or blocking
+  --cpu-percent-threshold N  only report lines with at least N% CPU
+  --cpu-sampling-rate N CPU sampling rate in seconds
+  --malloc-threshold N  only report lines with at least N allocations
+  --memory-leak-detector  EXPERIMENTAL: report likely memory leaks
+  --on                  start with profiling on (default)
+  --off                 start with profiling off
+
+View options:
+  -h, --help            show help message and exit
+  --cli                 display profile in the terminal
+  --html                save to scalene-profile.html (no browser)
+  -r, --reduced         only show lines with activity (--cli mode)
+
+YAML configuration file:
+  Create a scalene.yaml file with options:
+    outfile: my-profile.json
+    cpu-only: true
+    profile-only: "mypackage,utils"
+    cpu-percent-threshold: 5
+
+Jupyter usage:
+  Line mode:   %scrun [options] statement
+  Cell mode:   %%scalene [options]
+                your code here
+
+Background profiling:
+  Use --off to start with profiling disabled, then control from another terminal:
+    % scalene run --off prog.py          # start with profiling off
+    % python3 -m scalene.profile --on  --pid <PID>   # resume profiling
+    % python3 -m scalene.profile --off --pid <PID>   # suspend profiling
