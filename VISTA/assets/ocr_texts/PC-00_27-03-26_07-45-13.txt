@@ -1,0 +1,33 @@
+3 ® localhost:8501 B80 > iv) | —“SS&4o-.
+muuc ———
+Mode Depl
+Administrator: Command Prompt - python VISTA\Agent\src\orchestrator.py = x
+nt Mode: EXAM (Normal) Al . .
+asyncio.exceptions.CancelledError
+Use sid@uring handling of the above exception, another exception occurred: |
+Traceback (most recent call last):
+File "C:\coding\FP Project\VISTA\Agent\src\orchestrator.py", line 138, in <module>
+Is File "C:\Users\adity\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 194, in run
+return runner.run(main)
+- All Inputs File "C:\Users\adity\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 123, in run
+P' raise KeyboardInterrupt()
+KeyboardInterrupt
+Kc
+ock Browsers (env) C:\coding\FP Project>python VISTA\Agent\src\orchestrator.py
+[WS CLIENT] Starting...
+[WS] Connected to server
+A [WS] Role sent as AGENT
+rt Slideshow [WS] Received: {‘action’: ‘start’, ‘module’: 'keyboard'}
+[WS] started keyboard
+[+] Keyboard hook installed | Logging to: C:\coding\FP Project\VISTA\assets\ logs \keylog. json
+irt Keylogger [WS] Received: {"action': ‘start’, ‘module’: ‘usb'}
+[WS] Received: {"action': ‘start’, ‘module’: ‘screen'}
+[WS] started screen
+roi [screenshots] Screenshot worker started
+art Screen Monitoring [WS] Received: {"action’: ‘start’, ‘module’: 'process_blocker'}
+[WS] started process_blocker
+[+] Process blocker started
+able USB Monitoring [+] Blocked: {'msedge.exe', 'firefox.exe', ‘chrome.exe'}
+ency
+eeze All Systems
+ume All Systems

@@ -1,0 +1,392 @@
+[
+  {
+    "timestamp": "05-02-26 17-27-37",
+    "filename": "PC-00_05-02-26_17-27-37.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious command prompt activity, potential code execution"
+    ],
+    "ocr_snippet": "=] Administrator: Command Prompt - python Agent src orchestrator.py = ao x on X @ app and _process_blocker.py (ProOo0e crosoft Windows [Version 10.0.26200.7623] ) Microsoft Corporation. All rights res",
+    "keylog_snippet": "C",
+    "clipboard_snippet": "",
+    "switches_per_min": 0.1
+  },
+  {
+    "timestamp": "05-02-26 17-27-32",
+    "filename": "PC-00_05-02-26_17-27-32.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious activity, code execution and potential malicious intent"
+    ],
+    "ocr_snippet": "=] Administrator: Command Prompt - python Agent src orchestrator.py = ao x on X @ app and _process_blocker.py (ProOo0e crosoft Windows [Version 10.0.26200.7623] ) Microsoft Corporation. All rights res",
+    "keylog_snippet": "LET  US RE CONTINUE ALL THIS BULLSHIT AGAIN AND AGAIN GREAT I COPIED HE HE HE KKO XKXK XOXO LIKE THIS CC",
+    "clipboard_snippet": "python -m pip install annotated-types==0.7.0 cloudpickle==3.1.2 Jinja2==3.1.6 markdown-it-py==4.0.0 MarkupSafe==3.0.3 mdurl==0.1.2 mss==10.1.0 numpy==2.4.0 nvidia-ml-py==13.590.44 packaging==25.0 pill",
+    "switches_per_min": 0.1
+  },
+  {
+    "timestamp": "05-02-26 17-27-27",
+    "filename": "PC-00_05-02-26_17-27-27.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious activity, code execution and potential malicious intent"
+    ],
+    "ocr_snippet": "=] Administrator: Command Prompt - python Agent src orchestrator.py = ao x on X @ app and _process_blocker.py (ProOo0e crosoft Windows [Version 10.0.26200.7623] ) Microsoft Corporation. All rights res",
+    "keylog_snippet": "LET  US RE CONTINUE ALL THIS BULLSHIT AGAIN AND AGAIN GREAT I COPIED HE HE HE KKO XKXK XOXO LIKE THIS CC",
+    "clipboard_snippet": "python -m pip install annotated-types==0.7.0 cloudpickle==3.1.2 Jinja2==3.1.6 markdown-it-py==4.0.0 MarkupSafe==3.0.3 mdurl==0.1.2 mss==10.1.0 numpy==2.4.0 nvidia-ml-py==13.590.44 packaging==25.0 pill",
+    "switches_per_min": 0.1
+  },
+  {
+    "timestamp": "05-02-26 17-27-22",
+    "filename": "PC-00_05-02-26_17-27-22.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious activity, code execution and potential malicious intent"
+    ],
+    "ocr_snippet": "=] Administrator: Command Prompt - python Agent src orchestrator.py oO x 9 X @ app_and_process_blocker.py (ProOo0e crosoft Windows [Version 10.0.26200.7623] ) Microsoft Corporation. All rights reserve",
+    "keylog_snippet": "LET  US RE CONTINUE ALL THIS BULLSHIT AGAIN AND AGAIN GREAT I COPIED HE HE HE KKO XKXK XOXO LIKE THIS CC",
+    "clipboard_snippet": "python -m pip install annotated-types==0.7.0 cloudpickle==3.1.2 Jinja2==3.1.6 markdown-it-py==4.0.0 MarkupSafe==3.0.3 mdurl==0.1.2 mss==10.1.0 numpy==2.4.0 nvidia-ml-py==13.590.44 packaging==25.0 pill",
+    "switches_per_min": 0.1
+  },
+  {
+    "timestamp": "27-03-26 07-44-43",
+    "filename": "PC-00_27-03-26_07-44-43.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code execution, potential for remote control"
+    ],
+    "ocr_snippet": "5] localhost:8501 BO > iv) | mH SH SQuioO-: muuc Mode WT stop ep | Administrator: Command Prompt - python VISTA Agent src orchestrator.py = x nt Mode: EXAM (Normal) . frame = await self.frames.get(not",
+    "keylog_snippet": "CHANGE BTUUTTON BACKGROUND COLOR TO GREEN WHEN IT IS PRESSED CCCC",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 07-44-48",
+    "filename": "PC-00_27-03-26_07-44-48.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code execution, potential for remote control"
+    ],
+    "ocr_snippet": "5] localhost:8501 BO > iv) | mH SH SQuioO-: muuc Mode Dep! Administrator: Command Prompt - python VISTA Agent src orchestrator.py = x nt Mode: EXAM (Normal) Al . frame = await self.frames.get(not self",
+    "keylog_snippet": "CHANGE BTUUTTON BACKGROUND COLOR TO GREEN WHEN IT IS PRESSED CCCC",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 07-44-53",
+    "filename": "PC-00_27-03-26_07-44-53.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code execution, potential for remote control"
+    ],
+    "ocr_snippet": "5] localhost:8501 BO > iv) | mH SH SQuioO-: muuc Mode Dep! Administrator: Command Prompt - python VISTA Agent src orchestrator.py = x nt Mode: EXAM (Normal) Al . frame = await self.frames.get(not self",
+    "keylog_snippet": "CHANGE BTUUTTON BACKGROUND COLOR TO GREEN WHEN IT IS PRESSED CCCC",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 07-44-56",
+    "filename": "PC-00_27-03-26_07-44-56.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "Lo muuc Mode ben! nt Mode: EXAM (Normal) (3 Dashboard Running Use sidebar to control clients ls -k All Inputs ock Browsers rt Slideshow rt Keylogger art Screen Monitoring able USB Monitoring ency eeze",
+    "keylog_snippet": "CHANGE BTUUTTON BACKGROUND COLOR TO GREEN WHEN IT IS PRESSED CCCC",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 07-44-58",
+    "filename": "PC-00_27-03-26_07-44-58.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code execution, potential for remote control"
+    ],
+    "ocr_snippet": "3 localhost:8501 B80 > iv) | SS&4o-. muuc Mode Depl Administrator: Command Prompt - python VISTA Agent src orchestrator.py = x nt Mode: EXAM (Normal) Al . . asyncio.exceptions.CancelledError Use sid@u",
+    "keylog_snippet": "CHANGE BTUUTTON BACKGROUND COLOR TO GREEN WHEN IT IS PRESSED CCCC",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 07-45-03",
+    "filename": "PC-00_27-03-26_07-45-03.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Code execution, suspicious activity"
+    ],
+    "ocr_snippet": "3 localhost:8501 B80 > iv) | SS&4o-. muuc Mode Dep! Administrator: Command Prompt - python VISTA Agent src orchestrator.py = x nt Mode: EXAM (Normal) Al . . asyncio.exceptions.CancelledError Use sid@u",
+    "keylog_snippet": "CHANGE BTUUTTON BACKGROUND COLOR TO GREEN WHEN IT IS PRESSED CCCC",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 07-45-08",
+    "filename": "PC-00_27-03-26_07-45-08.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Code execution, potential for malicious activity"
+    ],
+    "ocr_snippet": "3 localhost:8501 B80 > iv) | SS&4o-. muuc Mode Depl Select Administrator: Command Prompt - python VISTA Agent src orchestrator.py = x nt Mode: EXAM (Normal) Al . . asyncio.exceptions.CancelledError Us",
+    "keylog_snippet": "CHANGE BTUUTTON BACKGROUND COLOR TO GREEN WHEN IT IS PRESSED CCCC",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 07-45-13",
+    "filename": "PC-00_27-03-26_07-45-13.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Code execution with external connection and error handling"
+    ],
+    "ocr_snippet": "3 localhost:8501 B80 > iv) | SS&4o-. muuc Mode Depl Administrator: Command Prompt - python VISTA Agent src orchestrator.py = x nt Mode: EXAM (Normal) Al . . asyncio.exceptions.CancelledError Use sid@u",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-11",
+    "filename": "PC-00_27-03-26_08-09-11.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Code with websockets and client control"
+    ],
+    "ocr_snippet": "4 (WN) _localhost:8501 BROerol=oauo-: iS Stop Dep e (@) Dashboard Running Use sidebar to control clients",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-15",
+    "filename": "PC-00_27-03-26_08-09-15.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Code snippet with potential for malicious activity"
+    ],
+    "ocr_snippet": "4 (WN) _localhost:8501 BROerol=oauo-: Stop Dep e (@) Dashboard Running Use sidebar to control clients",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-21",
+    "filename": "PC-00_27-03-26_08-09-21.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-26",
+    "filename": "PC-00_27-03-26_08-09-26.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-31",
+    "filename": "PC-00_27-03-26_08-09-31.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-36",
+    "filename": "PC-00_27-03-26_08-09-36.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Code generation and WebSocket communication detected"
+    ],
+    "ocr_snippet": "",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-41",
+    "filename": "PC-00_27-03-26_08-09-41.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Code generation and WebSocket communication detected"
+    ],
+    "ocr_snippet": "",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-46",
+    "filename": "PC-00_27-03-26_08-09-46.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-51",
+    "filename": "PC-00_27-03-26_08-09-51.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-09-56",
+    "filename": "PC-00_27-03-26_08-09-56.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-10-01",
+    "filename": "PC-00_27-03-26_08-10-01.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-10-06",
+    "filename": "PC-00_27-03-26_08-10-06.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-10-11",
+    "filename": "PC-00_27-03-26_08-10-11.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-10-16",
+    "filename": "PC-00_27-03-26_08-10-16.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-10-21",
+    "filename": "PC-00_27-03-26_08-10-21.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "2 localhost:8501 RBoaOr Yg | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browse",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-10-27",
+    "filename": "PC-00_27-03-26_08-10-27.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Suspicious code, potential for remote control"
+    ],
+    "ocr_snippet": "5] localhost:8501 BO >oO | mH SHAuiAO: Depl n Mode Mode Practical Mode ( ) Dashboard Running Use sidebar to control clients nt Mode: EXAM (ALL JLES ACTIVE) ls op & Block All Inputs op @ Block Browsers",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-10-32",
+    "filename": "PC-00_27-03-26_08-10-32.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Code execution detected"
+    ],
+    "ocr_snippet": "4 (WN) _localhost:8501 BROerol=oauo-: A stop dep e (@) Dashboard Running Use sidebar to control clients",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  },
+  {
+    "timestamp": "27-03-26 08-10-37",
+    "filename": "PC-00_27-03-26_08-10-37.json",
+    "risk": "FLAG",
+    "confidence": 0.98,
+    "reasons": [
+      "Code snippet with websockets and client control"
+    ],
+    "ocr_snippet": "4 (WN) _localhost:8501 BROerol=oauo-: TP Stop Dep e (@) Dashboard Running Use sidebar to control clients",
+    "keylog_snippet": ".",
+    "clipboard_snippet": "import streamlit as st\r\nimport asyncio\r\nimport websockets\r\nimport json\r\n\r\nWS_URL = \"ws://localhost:8765\"\r\n\r\n# ================== WS SEND ==================\r\nasync def _send(data):\r\n    try:\r\n        a",
+    "switches_per_min": 0.0
+  }
+]

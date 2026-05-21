@@ -1,0 +1,8 @@
+{
+  "risk": "FLAG",
+  "confidence": 0.98,
+  "reasons": [
+    "Code execution, potential for malicious activity"
+  ],
+  "timestamp": "27-03-26 07-45-08"
+}

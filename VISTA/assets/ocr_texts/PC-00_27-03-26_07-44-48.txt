@@ -1,0 +1,32 @@
+5] ® localhost:8501 BO > iv) | mH“ SH SQuioO-:
+muuc ———
+Mode Dep!
+Administrator: Command Prompt - python VISTA\Agent\src\orchestrator.py = x
+nt Mode: EXAM (Normal) Al .
+frame = await self.frames.get(not self.closed)
+Use side File "C:\coding\FP Project\env\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get |
+await self.get_waiter
+asyncio. exceptions. CancelledError
+During handling of the above exception, another exception occurred:
+ls Traceback (most recent call last):
+File "C:\coding\FP Project\VISTA\Agent\src\orchestrator.py", line 138, in <module>
+‘k All Inputs File "C:\Users\adity\AppData\Local \Programs\Python\Python312\Lib\asyncio\runners.py", line 194, in run
+return runner.run(main)
+ock Browsers File "C:\Users\adity\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 123, in run
+raise KeyboardInterrupt()
+KeyboardInterrupt
+A ke
+rt Slideshow (env) C:\coding\FP Project>python VISTA\Agent\src\orchestrator.py
+[WS CLIENT] Starting...
+[WS] Connected to server
+rt Keylogger [WS] Role sent as AGENT
+[WS] Received: {‘action': ‘start’, ‘module’: ‘keyboard'}
+[WS] started keyboard
+roi [+] Keyboard hook installed | Logging to: C:\coding\FP Project\VISTA\assets\ logs \keylog. json
+art Screen Monitoring [WS] Received: {'action'’: ‘start’, ‘module’: ‘usb'}
+[WS] Received: {"action': ‘start’, ‘module’: ‘screen'}
+[WS] started screen
+able USB Monitoring [screenshots] Screenshot worker started
+ency
+eeze All Systems
+ume All Systems

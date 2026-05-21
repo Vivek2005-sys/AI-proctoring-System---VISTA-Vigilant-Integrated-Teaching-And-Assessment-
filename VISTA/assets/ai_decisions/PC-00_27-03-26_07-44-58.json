@@ -1,0 +1,8 @@
+{
+  "risk": "FLAG",
+  "confidence": 0.98,
+  "reasons": [
+    "Suspicious code execution, potential for remote control"
+  ],
+  "timestamp": "27-03-26 07-44-58"
+}
